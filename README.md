@@ -5,12 +5,13 @@ lighthouse-role
 
 Requirements
 ------------
+```
 ---
   - src: git@github.com:IgorVityukhovsky/lighthouse-role.git
     scm: git
     version: "latest"
     name: lighthouse-role
-
+```
 
 Role Variables
 --------------
