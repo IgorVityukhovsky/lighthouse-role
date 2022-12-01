@@ -15,8 +15,9 @@ Requirements
 
 Role Variables
 --------------
-
+```
 lighthouse_repo: https://github.com/VKCOM/lighthouse.git   <--- default
+```
 
 Dependencies
 ------------
