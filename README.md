@@ -5,7 +5,7 @@ lighthouse-role
 
 Requirements
 ------------
-```
+```yaml
 ---
   - src: git@github.com:IgorVityukhovsky/lighthouse-role.git
     scm: git
